@@ -47,6 +47,8 @@ uvi-hfo-surrogate/
 Python 3.10+ is recommended.
 
 ```
+git clone https://github.com/rgao3/uvi-hfo-surrogate
+cd uvi-hfo-surrogate
 pip install -r requirements.txt
 ```
 

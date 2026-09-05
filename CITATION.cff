@@ -9,7 +9,7 @@ authors:
     given-names: Qian
 version: "0.2.0"
 license: MIT
-repository-code: "https://github.com/USERNAME/uvi-hfo-surrogate"
+repository-code: "https://github.com/rgao3/uvi-hfo-surrogate"
 # Fill in when available (see PLACEHOLDERS.md):
 #   doi: 10.5281/zenodo.XXXXXXX      # DOI of the archived snapshot (via GitHub -> Zenodo release)
 #   date-released: 2026-XX-XX
