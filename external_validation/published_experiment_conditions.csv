@@ -1,0 +1,15 @@
+series,source,U_total_M,Fe_total_M,HFO_g_per_L,carbonate_condition,pCO2_atm_log10,total_C_M,electrolyte_M,electrolyte,n_points,data_location,digitised
+1,"Hsi 1981; Hsi & Langmuir 1985",1.0e-5,1.1236e-2,1.0,none,,0,0.1,NaNO3,29,"figures in source publication",no
+2,"Hsi 1981; Hsi & Langmuir 1985",1.0e-5,1.6854e-3,0.15,none,,0,0.1,NaNO3,11,"figures in source publication",no
+3,"Hsi 1981; Hsi & Langmuir 1985",1.0e-5,1.1236e-2,1.0,closed,,1.0e-2,0.1,NaNO3,12,"figures in source publication",no
+4,"Hsi 1981; Hsi & Langmuir 1985",1.0e-5,1.1236e-2,1.0,closed,,1.0e-3,0.1,NaNO3,15,"figures in source publication",no
+5,"Waite et al. 1994; Payne 1999",1.0e-6,1.0e-3,0.089,open,-3.5,,0.1,NaNO3,40,"Payne 1999 thesis appendix (tabulated)",no
+6,"Waite et al. 1994; Payne 1999",1.0e-6,2.0e-2,1.78,open,-3.5,,0.1,NaNO3,20,"Payne 1999 thesis appendix (tabulated)",no
+7,"Waite et al. 1994; Payne 1999",1.0e-5,1.0e-3,0.089,open,-3.5,,0.1,NaNO3,18,"Payne 1999 thesis appendix (tabulated)",no
+8,"Waite et al. 1994; Payne 1999",1.0e-4,1.0e-3,0.089,open,-3.5,,0.1,NaNO3,17,"Payne 1999 thesis appendix (tabulated)",no
+9,"Waite et al. 1994; Payne 1999",1.0e-6,1.0e-3,0.089,open,-2.0,,0.1,NaNO3,15,"Payne 1999 thesis appendix (tabulated)",no
+10,"Morrison, Spangler & Tripathi 1995",1.0e-5,1.1236e-2,1.0,closed,,1.0e-3,0.1,NaNO3,15,"figures in source publication",no
+11,"Morrison, Spangler & Tripathi 1995",8.4e-6,5.8427e-3,0.52,closed,,1.95e-2,0.1,NaNO3,9,"figures in source publication",no
+12,"Wazne et al. 2003",4.2e-6,1.42e-3,0.126,closed,,1.0e-2,0.01,NaCl,16,"figures in source publication",no
+13,"Fox et al. 2006",1.0e-6,1.0e-4,0.0089,open,-3.37,,0.01,NaNO3,9,"figures in source publication",no
+14,"Fox et al. 2006",1.0e-6,1.0e-3,0.089,open,-1.7,,0.005,NaNO3,7,"figures in source publication",no

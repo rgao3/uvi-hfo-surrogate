@@ -1,0 +1,14 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The data files in this repository — the PHREEQC simulation database
+(data/U_HFO_ML_Dataset_Final.csv), the non-converged cases, and the derived
+result tables under the analysis folders — are licensed under CC BY 4.0.
+
+You are free to share and adapt the data for any purpose, provided you give
+appropriate credit. Full text: https://creativecommons.org/licenses/by/4.0/
+
+Code in this repository is licensed separately under the MIT License (see LICENSE).
+
+Third-party data note: experimental conditions and measured points redistributed
+under external_validation/ are derived from published sources cited in
+external_validation/README.md and remain subject to their original terms.

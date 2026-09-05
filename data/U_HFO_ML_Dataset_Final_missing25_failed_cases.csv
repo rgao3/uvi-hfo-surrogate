@@ -1,0 +1,26 @@
+Input_pH,U_initial,Carbonate,NaCl,Ca,Hfo_s,Hfo_w,status,reason
+4,0.001,0.00001,0.001,0,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00001,0.001,0.00001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00001,0.001,0.0001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00001,0.001,0.001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00001,0.001,0.01,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.000026826957952797247,0.001,0,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.000026826957952797247,0.001,0.00001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.000026826957952797247,0.001,0.0001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.000026826957952797247,0.001,0.001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.000026826957952797247,0.001,0.01,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00007196856730011514,0.001,0,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00007196856730011514,0.001,0.00001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00007196856730011514,0.001,0.0001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00007196856730011514,0.001,0.001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00007196856730011514,0.001,0.01,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00019306977288832496,0.001,0,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00019306977288832496,0.001,0.00001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00019306977288832496,0.001,0.0001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00019306977288832496,0.001,0.001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.00019306977288832496,0.001,0.01,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.0005179474679231213,0.001,0,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.0005179474679231213,0.001,0.00001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.0005179474679231213,0.001,0.0001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.0005179474679231213,0.001,0.001,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row
+4,0.001,0.0005179474679231213,0.001,0.01,0.001,0.04,failed,PHREEQC numerical method failed to converge for Fix_pH; no valid final selected-output row

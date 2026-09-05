@@ -1,0 +1,128 @@
+{
+  "dataset_rows": 86375,
+  "phreeqc_mass_balance_max_abs_mol": 2.2302038688026826e-16,
+  "surface_fraction_metrics": [
+    {
+      "species": "Hfo_sOUO2+",
+      "fraction_MAE": 0.0007730925273300755,
+      "mean_fraction": 0.09928095035053787,
+      "max_fraction": 0.7679014448838857,
+      "fraction_R2": 0.9999005338837439
+    },
+    {
+      "species": "(Hfo_sO)2UO2",
+      "fraction_MAE": 0.009266283944532326,
+      "mean_fraction": 0.6813016636701356,
+      "max_fraction": 0.9875086932223718,
+      "fraction_R2": 0.9952473026609623
+    },
+    {
+      "species": "(Hfo_sO)2UO2CO3-2",
+      "fraction_MAE": 1.039815547561349e-07,
+      "mean_fraction": 1.4942401539777677e-14,
+      "max_fraction": 7.916060318448557e-13,
+      "fraction_R2": null
+    },
+    {
+      "species": "Hfo_wOUO2+",
+      "fraction_MAE": 0.00011428769322166591,
+      "mean_fraction": 0.01028224079040224,
+      "max_fraction": 0.24061047129285132,
+      "fraction_R2": 0.9992945569832888
+    },
+    {
+      "species": "(Hfo_wO)2UO2",
+      "fraction_MAE": 0.009123630782360942,
+      "mean_fraction": 0.2091351451889089,
+      "max_fraction": 0.9605304454482558,
+      "fraction_R2": 0.9943676246484778
+    },
+    {
+      "species": "(Hfo_wO)2UO2CO3-2",
+      "fraction_MAE": 1.0398157631849213e-07,
+      "mean_fraction": 4.846490409053448e-16,
+      "max_fraction": 1.0160325528459804e-13,
+      "fraction_R2": null
+    }
+  ],
+  "dominant_surface_species_accuracy": 0.9932272069464544,
+  "mean_surface_fraction_MAE": 0.0032129171517626806,
+  "predicted_closure_max_abs_mol_5000": 2.168404344971009e-19,
+  "consistency_pass_rate_5000": 1.0,
+  "trend_metrics": {
+    "carbonate_pH9": {
+      "n": 8,
+      "Ads_%_MAE": 2.9647331385966305,
+      "Ads_%_curve_R2": 0.9862086516987585,
+      "Ads_%_range_surrogate": 100.0,
+      "Ads_%_range_PHREEQC": 99.80657611449794,
+      "Ads_%_Spearman": -0.9940297973880048,
+      "PHREEQC_Ads_%_Spearman": -1.0,
+      "expected_behavior": "nonincreasing",
+      "max_direction_violation_Ads_%": 0.0,
+      "behavior_pass": true
+    },
+    "HFO_loading": {
+      "n": 5,
+      "Ads_%_MAE": 1.3089403972324078,
+      "Ads_%_curve_R2": 0.937244643173807,
+      "Ads_%_range_surrogate": 30.888824462890625,
+      "Ads_%_range_PHREEQC": 25.31282024295855,
+      "Ads_%_Spearman": 0.6668859288553501,
+      "PHREEQC_Ads_%_Spearman": 0.9999999999999999,
+      "expected_behavior": "nondecreasing",
+      "max_direction_violation_Ads_%": 0.04627227783203125,
+      "behavior_pass": true
+    },
+    "pH_edge": {
+      "n": 9,
+      "Ads_%_MAE": 0.8813150430626363,
+      "Ads_%_curve_R2": 0.9974941557094879,
+      "Ads_%_range_surrogate": 87.167724609375,
+      "Ads_%_range_PHREEQC": 87.69194627640515,
+      "Ads_%_Spearman": 0.1924703040138163,
+      "PHREEQC_Ads_%_Spearman": 0.18333333333333335,
+      "expected_behavior": "shape",
+      "max_direction_violation_Ads_%": null,
+      "behavior_pass": true
+    },
+    "Ca_low_carbonate": {
+      "n": 5,
+      "Ads_%_MAE": 0.003840358264548627,
+      "Ads_%_curve_R2": null,
+      "Ads_%_range_surrogate": 0.0,
+      "Ads_%_range_PHREEQC": 6.351836026396995e-05,
+      "Ads_%_Spearman": null,
+      "PHREEQC_Ads_%_Spearman": 0.9999999999999999,
+      "expected_behavior": "small-effect",
+      "max_direction_violation_Ads_%": 0.0,
+      "behavior_pass": true
+    },
+    "Ca_high_carbonate": {
+      "n": 5,
+      "Ads_%_MAE": 6.082755661886342,
+      "Ads_%_curve_R2": 0.9463831994782806,
+      "Ads_%_range_surrogate": 76.0745620727539,
+      "Ads_%_range_PHREEQC": 83.87079637270288,
+      "Ads_%_Spearman": -0.9999999999999999,
+      "PHREEQC_Ads_%_Spearman": -0.9999999999999999,
+      "expected_behavior": "nonincreasing",
+      "max_direction_violation_Ads_%": 0.0,
+      "behavior_pass": true
+    }
+  },
+  "ad_threshold_p95": 0.6194583248277084,
+  "benchmark": {
+    "phreeqc_sweeps": 15,
+    "phreeqc_reference_cases": 22500,
+    "phreeqc_total_seconds_recorded": 242.82899999999998,
+    "phreeqc_seconds_per_case": 0.010792399999999999,
+    "surrogate_batch_size": 5000,
+    "surrogate_total_seconds_core_predictions": 0.13038059999999874,
+    "core_seconds_per_case": 2.6076119999999747e-05,
+    "estimated_core_speedup": 413.8805926648636,
+    "surrogate_total_seconds_full_API": 0.5378775999999981,
+    "surrogate_seconds_per_case": 0.00010757551999999962,
+    "estimated_speedup": 100.32393987033517
+  }
+}

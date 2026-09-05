@@ -1,0 +1,114 @@
+{
+  "pH (unit -> 2-unit spacing)": {
+    "nearest (piecewise constant)": {
+      "n": 15000,
+      "MAE": 11.48278292349964,
+      "RMSE": 21.075518866381852,
+      "rho_R1": 0.9012511511352408,
+      "rho_R2": 0.9012511117187572,
+      "rho_AD": -0.0009669885698225754,
+      "R1_flag_frac": null,
+      "R2_flag_frac": null,
+      "R1": {
+        "flagged_pct": 68.56666666666666,
+        "MAE_flagged": 16.665097403007046,
+        "MAE_unflagged": 0.17841295070352972
+      },
+      "R2": {
+        "flagged_pct": 68.56666666666666,
+        "MAE_flagged": 16.665097403007046,
+        "MAE_unflagged": 0.17841295070352972
+      },
+      "AD": {
+        "flagged_pct": 60.39333333333333,
+        "MAE_flagged": 11.656201480120018,
+        "MAE_unflagged": 11.218349544535826
+      },
+      "ad_threshold": 0.41339841932058335,
+      "flag_threshold": 3.8404083251953125
+    },
+    "multilinear (smooth)": {
+      "n": 15000,
+      "MAE": 5.993404982383311,
+      "RMSE": 10.280529014192572,
+      "rho_R1": 0.8082954706991418,
+      "rho_R2": 0.653395137535312,
+      "rho_AD": -0.026866200418082273,
+      "R1_flag_frac": null,
+      "R2_flag_frac": null,
+      "R1": {
+        "flagged_pct": 73.05333333333334,
+        "MAE_flagged": 8.16060968017372,
+        "MAE_unflagged": 0.1180390550237557
+      },
+      "R2": {
+        "flagged_pct": 72.37333333333333,
+        "MAE_flagged": 8.213283156759111,
+        "MAE_unflagged": 0.17800984217488558
+      },
+      "AD": {
+        "flagged_pct": 60.39333333333333,
+        "MAE_flagged": 5.933648969192453,
+        "MAE_unflagged": 6.084522592801755
+      },
+      "ad_threshold": 0.41339841932058335,
+      "flag_threshold": 3.8404083251953125
+    }
+  },
+  "Hfo_s (0.75 -> 1.5 decade spacing)": {
+    "nearest (piecewise constant)": {
+      "n": 15000,
+      "MAE": 17.676776218016244,
+      "RMSE": 25.88477864071239,
+      "rho_R1": 0.8894347300166545,
+      "rho_R2": 0.8894347653898853,
+      "rho_AD": 0.012439227292987865,
+      "R1_flag_frac": null,
+      "R2_flag_frac": null,
+      "R1": {
+        "flagged_pct": 80.58,
+        "MAE_flagged": 21.842171912427617,
+        "MAE_unflagged": 0.39317245613836255
+      },
+      "R2": {
+        "flagged_pct": 80.58,
+        "MAE_flagged": 21.842171912427617,
+        "MAE_unflagged": 0.39317245613836255
+      },
+      "AD": {
+        "flagged_pct": 100.0,
+        "MAE_flagged": 17.676776218016244,
+        "MAE_unflagged": null
+      },
+      "ad_threshold": 0.35555243492126465,
+      "flag_threshold": 3.724609375
+    },
+    "multilinear (smooth)": {
+      "n": 14956,
+      "MAE": 7.588526889023063,
+      "RMSE": 10.851922608955153,
+      "rho_R1": 0.737406962085858,
+      "rho_R2": 0.5150272528798002,
+      "rho_AD": 0.0007268822805884569,
+      "R1_flag_frac": null,
+      "R2_flag_frac": null,
+      "R1": {
+        "flagged_pct": 79.01176785236694,
+        "MAE_flagged": 9.52504840368227,
+        "MAE_unflagged": 0.29834697862871173
+      },
+      "R2": {
+        "flagged_pct": 78.77106178122493,
+        "MAE_flagged": 9.548782269209767,
+        "MAE_unflagged": 0.31489897280902485
+      },
+      "AD": {
+        "flagged_pct": 100.0,
+        "MAE_flagged": 7.588526889023063,
+        "MAE_unflagged": null
+      },
+      "ad_threshold": 0.35555243492126465,
+      "flag_threshold": 3.724609375
+    }
+  }
+}

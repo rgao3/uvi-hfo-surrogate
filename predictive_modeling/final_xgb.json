@@ -1,0 +1,34 @@
+{
+ "Ads_%": {
+  "best_params": {
+   "subsample": 0.85,
+   "reg_lambda": 2.0,
+   "n_estimators": 500,
+   "min_child_weight": 5,
+   "max_depth": 8,
+   "learning_rate": 0.03,
+   "colsample_bytree": 0.85
+  },
+  "cv_r2": 0.9944344560305277,
+  "train_r2": 0.9959729313850403,
+  "test_r2": 0.9945220351219177,
+  "test_rmse": 2.997529443082419,
+  "test_mae": 1.5825426578521729
+ },
+ "logKd": {
+  "best_params": {
+   "subsample": 0.85,
+   "reg_lambda": 2.0,
+   "n_estimators": 500,
+   "min_child_weight": 5,
+   "max_depth": 8,
+   "learning_rate": 0.03,
+   "colsample_bytree": 0.85
+  },
+  "cv_r2": 0.9987305204073588,
+  "train_r2": 0.9991004467010498,
+  "test_r2": 0.9989081621170044,
+  "test_rmse": 0.05684075064778145,
+  "test_mae": 0.035132233053445816
+ }
+}

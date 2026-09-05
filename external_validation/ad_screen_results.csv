@@ -1,0 +1,99 @@
+series,source,pH,U_initial,Carbonate,carbonate_basis,electrolyte_M,Hfo_s,Hfo_w,AD_distance,AD_status,axes_outside_sampled_range,inside_sampled_box
+1,Hsi 1981; Hsi & Langmuir 1985,4.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.158944312401419,lower-support,Carbonate,False
+1,Hsi 1981; Hsi & Langmuir 1985,5.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.156666379967305,lower-support,Carbonate,False
+1,Hsi 1981; Hsi & Langmuir 1985,6.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.151079943569774,lower-support,Carbonate,False
+1,Hsi 1981; Hsi & Langmuir 1985,7.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.145053850585978,lower-support,Carbonate,False
+1,Hsi 1981; Hsi & Langmuir 1985,8.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.149227567825318,lower-support,Carbonate,False
+1,Hsi 1981; Hsi & Langmuir 1985,9.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.147144680869485,lower-support,Carbonate,False
+1,Hsi 1981; Hsi & Langmuir 1985,10.0,1e-05,1e-12,reported total C,0.1,5.618e-05,0.0022472,7.148641559653387,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,4.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.138886856360789,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,5.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.138886856683323,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,6.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.138886856912625,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,7.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.14097651160011,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,8.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.13888685645402,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,9.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.140627949243512,lower-support,Carbonate,False
+2,Hsi 1981; Hsi & Langmuir 1985,10.0,1e-05,1e-12,reported total C,0.1,8.427e-06,0.00033708,7.142675251873108,lower-support,Carbonate,False
+3,Hsi 1981; Hsi & Langmuir 1985,4.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.5729362361971947,in-domain,,True
+3,Hsi 1981; Hsi & Langmuir 1985,5.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.572936245038287,in-domain,,True
+3,Hsi 1981; Hsi & Langmuir 1985,6.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.6434045067244959,lower-support,,True
+3,Hsi 1981; Hsi & Langmuir 1985,7.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.7649848346268443,lower-support,,True
+3,Hsi 1981; Hsi & Langmuir 1985,8.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.7943704478375789,lower-support,,True
+3,Hsi 1981; Hsi & Langmuir 1985,9.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.6688113729468121,lower-support,,True
+3,Hsi 1981; Hsi & Langmuir 1985,10.0,1e-05,0.01,reported total C,0.1,5.618e-05,0.0022472,0.6122789446984409,in-domain,,True
+4,Hsi 1981; Hsi & Langmuir 1985,4.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5529083614265409,in-domain,,True
+4,Hsi 1981; Hsi & Langmuir 1985,5.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.575929324377555,in-domain,,True
+4,Hsi 1981; Hsi & Langmuir 1985,6.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.6480649302735525,lower-support,,True
+4,Hsi 1981; Hsi & Langmuir 1985,7.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5850104171355388,in-domain,,True
+4,Hsi 1981; Hsi & Langmuir 1985,8.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5689835615426568,in-domain,,True
+4,Hsi 1981; Hsi & Langmuir 1985,9.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5529083691057759,in-domain,,True
+4,Hsi 1981; Hsi & Langmuir 1985,10.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5529083691057765,in-domain,,True
+5,Waite et al. 1994; Payne 1999,4.0,1e-06,1.076305608399554e-05,open-system estimate,0.1,5e-06,0.0002,0.456621726924819,in-domain,,True
+5,Waite et al. 1994; Payne 1999,5.0,1e-06,1.1193825383419843e-05,open-system estimate,0.1,5e-06,0.0002,0.463039912856852,in-domain,,True
+5,Waite et al. 1994; Payne 1999,6.0,1e-06,1.550171784771631e-05,open-system estimate,0.1,5e-06,0.0002,0.42769599602923625,in-domain,,True
+5,Waite et al. 1994; Payne 1999,7.0,1e-06,5.860058949602563e-05,open-system estimate,0.1,5e-06,0.0002,0.5060479297021353,in-domain,,True
+5,Waite et al. 1994; Payne 1999,8.0,1e-06,0.0004915840065135832,open-system estimate,0.1,5e-06,0.0002,0.5244877804330439,in-domain,,True
+5,Waite et al. 1994; Payne 1999,9.0,1e-06,0.0050208882301355975,open-system estimate,0.1,5e-06,0.0002,0.6046207257065426,in-domain,,True
+5,Waite et al. 1994; Payne 1999,10.0,1e-06,0.07026093581099965,open-system estimate,0.1,5e-06,0.0002,18.501220351707424,lower-support,Carbonate,False
+6,Waite et al. 1994; Payne 1999,4.0,1e-06,1.076305608399554e-05,open-system estimate,0.1,0.0001,0.004,0.6856678833382446,lower-support,,True
+6,Waite et al. 1994; Payne 1999,5.0,1e-06,1.1193825383419843e-05,open-system estimate,0.1,0.0001,0.004,0.6609416178871897,lower-support,,True
+6,Waite et al. 1994; Payne 1999,6.0,1e-06,1.550171784771631e-05,open-system estimate,0.1,0.0001,0.004,0.634501767578152,lower-support,,True
+6,Waite et al. 1994; Payne 1999,7.0,1e-06,5.860058949602563e-05,open-system estimate,0.1,0.0001,0.004,0.6295161413630936,lower-support,,True
+6,Waite et al. 1994; Payne 1999,8.0,1e-06,0.0004915840065135832,open-system estimate,0.1,0.0001,0.004,0.6395778051393213,lower-support,,True
+6,Waite et al. 1994; Payne 1999,9.0,1e-06,0.0050208882301355975,open-system estimate,0.1,0.0001,0.004,0.7652420996627087,lower-support,,True
+6,Waite et al. 1994; Payne 1999,10.0,1e-06,0.07026093581099965,open-system estimate,0.1,0.0001,0.004,18.5020058041664,lower-support,Carbonate,False
+7,Waite et al. 1994; Payne 1999,4.0,1e-05,1.076305608399554e-05,open-system estimate,0.1,5e-06,0.0002,0.4138822738289899,in-domain,,True
+7,Waite et al. 1994; Payne 1999,5.0,1e-05,1.1193825383419843e-05,open-system estimate,0.1,5e-06,0.0002,0.4124648481951116,in-domain,,True
+7,Waite et al. 1994; Payne 1999,6.0,1e-05,1.550171784771631e-05,open-system estimate,0.1,5e-06,0.0002,0.459308964817218,in-domain,,True
+7,Waite et al. 1994; Payne 1999,7.0,1e-05,5.860058949602563e-05,open-system estimate,0.1,5e-06,0.0002,0.49026265697178106,in-domain,,True
+7,Waite et al. 1994; Payne 1999,8.0,1e-05,0.0004915840065135832,open-system estimate,0.1,5e-06,0.0002,0.513430597550899,in-domain,,True
+7,Waite et al. 1994; Payne 1999,9.0,1e-05,0.0050208882301355975,open-system estimate,0.1,5e-06,0.0002,0.6063685017260593,in-domain,,True
+7,Waite et al. 1994; Payne 1999,10.0,1e-05,0.07026093581099965,open-system estimate,0.1,5e-06,0.0002,18.49850278792577,lower-support,Carbonate,False
+8,Waite et al. 1994; Payne 1999,4.0,0.0001,1.076305608399554e-05,open-system estimate,0.1,5e-06,0.0002,0.49733766814219793,in-domain,,True
+8,Waite et al. 1994; Payne 1999,5.0,0.0001,1.1193825383419843e-05,open-system estimate,0.1,5e-06,0.0002,0.4960818217566347,in-domain,,True
+8,Waite et al. 1994; Payne 1999,6.0,0.0001,1.550171784771631e-05,open-system estimate,0.1,5e-06,0.0002,0.5094779006738056,in-domain,,True
+8,Waite et al. 1994; Payne 1999,7.0,0.0001,5.860058949602563e-05,open-system estimate,0.1,5e-06,0.0002,0.562131438652575,in-domain,,True
+8,Waite et al. 1994; Payne 1999,8.0,0.0001,0.0004915840065135832,open-system estimate,0.1,5e-06,0.0002,0.6187891052630048,in-domain,,True
+8,Waite et al. 1994; Payne 1999,9.0,0.0001,0.0050208882301355975,open-system estimate,0.1,5e-06,0.0002,0.6899630551618146,lower-support,,True
+8,Waite et al. 1994; Payne 1999,10.0,0.0001,0.07026093581099965,open-system estimate,0.1,5e-06,0.0002,18.50142703116888,lower-support,Carbonate,False
+9,Waite et al. 1994; Payne 1999,4.0,1e-06,0.0003403577180955845,open-system estimate,0.1,5e-06,0.0002,0.5223123853206249,in-domain,,True
+9,Waite et al. 1994; Payne 1999,5.0,1e-06,0.0003539798394181431,open-system estimate,0.1,5e-06,0.0002,0.47121456320378785,in-domain,,True
+9,Waite et al. 1994; Payne 1999,6.0,1e-06,0.0004902073604406674,open-system estimate,0.1,5e-06,0.0002,0.5019729897958681,in-domain,,True
+9,Waite et al. 1994; Payne 1999,7.0,1e-06,0.0018531133503597963,open-system estimate,0.1,5e-06,0.0002,0.588024351240483,in-domain,,True
+9,Waite et al. 1994; Payne 1999,8.0,1e-06,0.01554525121893971,open-system estimate,0.1,5e-06,0.0002,1.8034655935205688,lower-support,Carbonate,False
+9,Waite et al. 1994; Payne 1999,9.0,1e-06,0.15877442684360155,open-system estimate,0.1,5e-06,0.0002,45.62347758183723,lower-support,Carbonate,False
+9,Waite et al. 1994; Payne 1999,10.0,1e-06,2.221845876976487,open-system estimate,0.1,5e-06,0.0002,677.9921193091151,lower-support,Carbonate,False
+10,"Morrison, Spangler & Tripathi 1995",4.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5529083614265409,in-domain,,True
+10,"Morrison, Spangler & Tripathi 1995",5.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.575929324377555,in-domain,,True
+10,"Morrison, Spangler & Tripathi 1995",6.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.6480649302735525,lower-support,,True
+10,"Morrison, Spangler & Tripathi 1995",7.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5850104171355388,in-domain,,True
+10,"Morrison, Spangler & Tripathi 1995",8.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5689835615426568,in-domain,,True
+10,"Morrison, Spangler & Tripathi 1995",9.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5529083691057759,in-domain,,True
+10,"Morrison, Spangler & Tripathi 1995",10.0,1e-05,0.001,reported total C,0.1,5.618e-05,0.0022472,0.5529083691057765,in-domain,,True
+11,"Morrison, Spangler & Tripathi 1995",4.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,2.9636161524374662,lower-support,Carbonate,False
+11,"Morrison, Spangler & Tripathi 1995",5.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,2.963616153710588,lower-support,Carbonate,False
+11,"Morrison, Spangler & Tripathi 1995",6.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,2.979137245631999,lower-support,Carbonate,False
+11,"Morrison, Spangler & Tripathi 1995",7.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,3.0073244790667957,lower-support,Carbonate,False
+11,"Morrison, Spangler & Tripathi 1995",8.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,3.0193807245030113,lower-support,Carbonate,False
+11,"Morrison, Spangler & Tripathi 1995",9.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,2.9883813170323457,lower-support,Carbonate,False
+11,"Morrison, Spangler & Tripathi 1995",10.0,8.4e-06,0.0195,reported total C,0.1,2.92135e-05,0.00116854,2.9735960426922863,lower-support,Carbonate,False
+12,Wazne et al. 2003,4.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.44235431205257986,in-domain,,True
+12,Wazne et al. 2003,5.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.4829018690124727,in-domain,,True
+12,Wazne et al. 2003,6.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.5347956833281579,in-domain,,True
+12,Wazne et al. 2003,7.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.49615017201074485,in-domain,,True
+12,Wazne et al. 2003,8.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.5063281647945852,in-domain,,True
+12,Wazne et al. 2003,9.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.5675100116260657,in-domain,,True
+12,Wazne et al. 2003,10.0,4.2e-06,0.01,reported total C,0.01,7.100000000000001e-06,0.000284,0.5194682684620785,in-domain,,True
+13,Fox et al. 2006,4.0,1e-06,1.4518963160562256e-05,open-system estimate,0.01,5.000000000000001e-07,2e-05,0.6146375537395687,in-domain,Hfo_s,False
+13,Fox et al. 2006,5.0,1e-06,1.510005495644565e-05,open-system estimate,0.01,5.000000000000001e-07,2e-05,0.5642757040314168,in-domain,Hfo_s,False
+13,Fox et al. 2006,6.0,1e-06,2.0911241992977875e-05,open-system estimate,0.01,5.000000000000001e-07,2e-05,0.5728752916307035,in-domain,Hfo_s,False
+13,Fox et al. 2006,7.0,1e-06,7.90500201281289e-05,open-system estimate,0.01,5.000000000000001e-07,2e-05,0.6178513956222408,in-domain,Hfo_s,False
+13,Fox et al. 2006,8.0,1e-06,0.0006631285784625172,open-system estimate,0.01,5.000000000000001e-07,2e-05,0.6117479717100737,in-domain,Hfo_s,False
+13,Fox et al. 2006,9.0,1e-06,0.006772991860094221,open-system estimate,0.01,5.000000000000001e-07,2e-05,1.1219415197747016,lower-support,Hfo_s,False
+13,Fox et al. 2006,10.0,1e-06,0.09477939450519322,open-system estimate,0.01,5.000000000000001e-07,2e-05,26.014080887511977,lower-support,Hfo_s;Carbonate,False
+14,Fox et al. 2006,4.0,1e-06,0.0006791029285249213,open-system estimate,0.005,5e-06,0.0002,0.4614870780464351,in-domain,,True
+14,Fox et al. 2006,5.0,1e-06,0.0007062826338497566,open-system estimate,0.005,5e-06,0.0002,0.4560350350473761,in-domain,,True
+14,Fox et al. 2006,6.0,1e-06,0.00097809227280763,open-system estimate,0.005,5e-06,0.0002,0.5080564211518304,in-domain,,True
+14,Fox et al. 2006,7.0,1e-06,0.003697447233338624,open-system estimate,0.005,5e-06,0.0002,0.3930588447993764,in-domain,,True
+14,Fox et al. 2006,8.0,1e-06,0.031016853933874444,open-system estimate,0.005,5e-06,0.0002,6.479562582101581,lower-support,Carbonate,False
+14,Fox et al. 2006,9.0,1e-06,0.31679663046182144,open-system estimate,0.005,5e-06,0.0002,94.05428598663369,lower-support,Carbonate,False
+14,Fox et al. 2006,10.0,1e-06,4.433165348000166,open-system estimate,0.005,5e-06,0.0002,1355.8166813947305,lower-support,Carbonate,False

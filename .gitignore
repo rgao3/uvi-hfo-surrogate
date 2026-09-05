@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+figures_out/
+.DS_Store

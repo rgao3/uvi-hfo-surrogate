@@ -1,0 +1,10 @@
+{
+  "Input_pH": {
+    "conformal_half_width": 3.8404083251953125,
+    "ad_threshold": 0.7221043562552505
+  },
+  "Hfo_s": {
+    "conformal_half_width": 3.724609375,
+    "ad_threshold": 0.5682327375965357
+  }
+}

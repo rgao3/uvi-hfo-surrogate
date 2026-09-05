@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "A reliability-aware surrogate for PHREEQC U(VI)-HFO adsorption"
+message: "If you use this software or data, please cite the accompanying paper and this archive."
+type: software
+authors:
+  - family-names: Gao
+    given-names: Ruochan
+  - family-names: Wang
+    given-names: Qian
+version: "0.2.0"
+license: MIT
+repository-code: "https://github.com/USERNAME/uvi-hfo-surrogate"
+# Fill in when available (see PLACEHOLDERS.md):
+#   doi: 10.5281/zenodo.XXXXXXX      # DOI of the archived snapshot (via GitHub -> Zenodo release)
+#   date-released: 2026-XX-XX
+# The journal article citation is added on acceptance.

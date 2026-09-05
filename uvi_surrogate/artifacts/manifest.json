@@ -1,0 +1,119 @@
+{
+  "version": "0.2.0",
+  "base_features": [
+    "Input_pH",
+    "U_initial",
+    "Carbonate",
+    "NaCl",
+    "Ca",
+    "Hfo_s",
+    "Hfo_w"
+  ],
+  "log_columns": [
+    "U_initial",
+    "Carbonate",
+    "NaCl",
+    "Ca",
+    "Hfo_s",
+    "Hfo_w"
+  ],
+  "features": [
+    "Input_pH",
+    "U_initial",
+    "Carbonate",
+    "NaCl",
+    "Ca",
+    "Hfo_s",
+    "Hfo_w",
+    "log10_U_initial",
+    "log10_Carbonate",
+    "log10_NaCl",
+    "log10_Ca",
+    "log10_Hfo_s",
+    "log10_Hfo_w"
+  ],
+  "surface_species": [
+    "Hfo_sOUO2+",
+    "(Hfo_sO)2UO2",
+    "(Hfo_sO)2UO2CO3-2",
+    "Hfo_wOUO2+",
+    "(Hfo_wO)2UO2",
+    "(Hfo_wO)2UO2CO3-2"
+  ],
+  "conformal_90": {
+    "Ads_%": {
+      "<=5": 1.2777086943285525,
+      "6-7": 4.3827280920741885,
+      ">=8": 6.4837684122891375
+    },
+    "logKd": {
+      "<=5": 0.035825587895662536,
+      "6-7": 0.09479066761437194,
+      ">=8": 0.12426013291277194
+    }
+  },
+  "ad_threshold_p95": 0.6194583248277084,
+  "design_levels": {
+    "Input_pH": [
+      3.0,
+      4.0,
+      5.0,
+      6.0,
+      7.0,
+      8.0,
+      9.0,
+      10.0,
+      11.0
+    ],
+    "U_initial": [
+      1e-08,
+      5.179474679231213e-08,
+      2.682695795279728e-07,
+      1.389495494373136e-06,
+      7.196856730011529e-06,
+      3.727593720314938e-05,
+      0.0001930697728883,
+      0.001
+    ],
+    "Carbonate": [
+      1e-05,
+      2.6826957952797277e-05,
+      7.196856730011514e-05,
+      0.0001930697728883,
+      0.0005179474679231,
+      0.0013894954943731,
+      0.0037275937203149,
+      0.01
+    ],
+    "NaCl": [
+      0.001,
+      0.0039810717055349,
+      0.0158489319246111,
+      0.0630957344480193,
+      0.2511886431509579,
+      1.0
+    ],
+    "Ca": [
+      0.0,
+      1e-05,
+      0.0001,
+      0.001,
+      0.01
+    ],
+    "Hfo_s": [
+      1e-06,
+      5.623413251903491e-06,
+      3.1622776601683795e-05,
+      0.0001778279410038,
+      0.001
+    ]
+  },
+  "coupled_features": {
+    "Hfo_w": [
+      "Hfo_s",
+      40.0
+    ]
+  },
+  "resolution_criterion": "Resolution score = max over design axes of |f(x with axis at upper bracketing level) - f(x with axis at lower bracketing level)|, in adsorption points. Flagged when the score exceeds the pH-conditional conformal 90% half-width for that query, i.e. when grid resolution contributes more uncertainty than the calibrated statistical interval.",
+  "training_scope": "86,375 converged PHREEQC simulations; calibrated on a fixed training/test split"
+}
